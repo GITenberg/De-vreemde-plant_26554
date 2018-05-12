@@ -1,0 +1,26 @@
+_repo: De-vreemde-plant_26554
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robbers, Herman Johan
+    birthdate: 1868
+    deathdate: 1937
+    gutenberg_agent_id: '32094'
+    url: http://www.gutenberg.org/2009/agents/32094
+description: ''
+gutenberg_issued: '2008-09-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26554'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: De vreemde plant
+url: http://www.gutenberg.org/ebooks/26554
